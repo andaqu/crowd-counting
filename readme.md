@@ -3,10 +3,15 @@
 To re-run this repo, please ensure it mantains the following structure:
 
 crowd-counting
+
 ├── dev
-│   ├── traditional
-│   └── modern
+
+  ├── traditional
+
+  └── modern
+
 ├── shanghaitech
+
 └── pets2009
 
 To download the datasets and compiled videos discussed in the report, you can download from: https://bit.ly/3n6QucN
