@@ -4,6 +4,7 @@ To re-run this repo, please ensure it mantains the following structure:
 
 ```
 crowd-counting
+├── report.pdf
 ├── dev
 │   ├── traditional
 │   └── modern
